@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mindpeer/static/css/main.bfbaeeea.chunk.css",
+    "main.js": "/mindpeer/static/js/main.b3c0c283.chunk.js",
+    "main.js.map": "/mindpeer/static/js/main.b3c0c283.chunk.js.map",
+    "runtime-main.js": "/mindpeer/static/js/runtime-main.883ae479.js",
+    "runtime-main.js.map": "/mindpeer/static/js/runtime-main.883ae479.js.map",
+    "static/js/2.a500cba9.chunk.js": "/mindpeer/static/js/2.a500cba9.chunk.js",
+    "static/js/2.a500cba9.chunk.js.map": "/mindpeer/static/js/2.a500cba9.chunk.js.map",
+    "index.html": "/mindpeer/index.html",
+    "static/css/main.bfbaeeea.chunk.css.map": "/mindpeer/static/css/main.bfbaeeea.chunk.css.map",
+    "static/js/2.a500cba9.chunk.js.LICENSE.txt": "/mindpeer/static/js/2.a500cba9.chunk.js.LICENSE.txt",
+    "static/media/spr.7dc11467.svg": "/mindpeer/static/media/spr.7dc11467.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.883ae479.js",
+    "static/js/2.a500cba9.chunk.js",
+    "static/css/main.bfbaeeea.chunk.css",
+    "static/js/main.b3c0c283.chunk.js"
+  ]
+}
